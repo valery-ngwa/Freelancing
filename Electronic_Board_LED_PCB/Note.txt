@@ -1,0 +1,7 @@
+Encloesd you can find a technical drawing and pictures of an electronic board. We want you to:
+
+- design the dimensions of the board exactly as in the drawing.
+- design also the electronic parts incl. the LEDs and connectors
+- send us production files including BOM
+
+looking forward to your offers.
