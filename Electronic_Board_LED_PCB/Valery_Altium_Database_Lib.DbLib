@@ -1,0 +1,21 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MSDASQL.1;Persist Security Info=False;User ID=Valery_Library;Data Source=valery_altium_db;Initial Catalog=valery_altium_db;Option=1;
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=`
+RightQuote=`
+QuoteTableNames=1
+UseTableSchemaName=1
+DefaultColumnType=VARCHAR(45)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
